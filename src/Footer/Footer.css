@@ -1,0 +1,8 @@
+.footer {
+  background-image: url('../../public/dirt.webp');
+  background-repeat: repeat;
+  background-size: contain;
+  padding: 20px 0;
+  color: white;
+}
+

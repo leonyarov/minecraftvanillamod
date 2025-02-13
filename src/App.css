@@ -1,0 +1,57 @@
+
+body {
+  background: linear-gradient(to top, #ffffff, #c2efff);
+  min-height: 100vh;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.black {
+  background: linear-gradient(to bottom, gray, black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold {
+  background: linear-gradient(to bottom, gold, goldenrod);
+  -webkit-background-clip: text;
+  font-weight: bold;
+  -webkit-text-fill-color: transparent;
+}
+
+.blue {
+  background: linear-gradient(to bottom, #0c9aff, darkblue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.green {
+  background: linear-gradient(to bottom, #00e000, darkgreen);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+
+}
+
+.red {
+  background: linear-gradient(to bottom, red, darkred);
+  -webkit-background-clip: text;
+  font-weight: bold;
+  -webkit-text-fill-color: transparent;
+}
+
+.pink {
+  background: linear-gradient(to bottom, pink, hotpink);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.orange {
+  background: linear-gradient(to bottom, #ffffff, #ff3c00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
